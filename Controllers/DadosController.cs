@@ -38,6 +38,7 @@ namespace CorretoraAPI.Controllers
             }
             else
             {
+
                 return BadRequest();
             }
         }
